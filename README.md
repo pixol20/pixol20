@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pixol20
 - 👀 I’m interested in making games
-- 🌱 I’m currently learning c#, c, python
+- 🌱 I’m currently learning c#, python
 
 
 <!---
